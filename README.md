@@ -5,7 +5,7 @@ A project to create a model and website that can predict whether a person has a 
 1. Performing visualization and analysis of respondent's data.
 2. Perform data pre-processing (data cleaning).
 3. Creating a classification model using several algorithms (Naïve Bayes, Decision Tree, and Logistic Regression).
-4. Implementation and deployment of the model in the form of a website (check [This Repo](https://github.com/ismarapw/heart-disease-platform) for the implementation)
+4. Implementation and deployment of the model in the form of a website (check [This Repo](https://github.com/ismarapw/heart-diagnosis-web) for the implementation)
 
 # Installation and Usage
 At the beginning, you can clone this repository and you have to make sure that your machine has been installed with Python (3.11.4) and PIP (23.2.1). It is recommended for using virtual environment (venv). Inside the project you can do
